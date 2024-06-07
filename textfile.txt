@@ -1,2 +1,4 @@
 this is the textfile, that checks the comands in git bash
 git bash comands work and it's very nice
+
+now i am trying to use git gui
